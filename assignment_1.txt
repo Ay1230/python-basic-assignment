@@ -1,0 +1,46 @@
+python basic assignment 
+assignment - 1
+
+1.)
+
+*       ----> Expression
+
+'hello' ----> Value
+
+-87.8   ----> Value
+
+-       ----> Expression
+
+/       ----> Expression
+
++       ----> Expression
+
+
+2.) Variable is something which store data whereas strings is a data type for a sequence of characters.
+
+3.) The three different data types are:-
+
+     a.)Numeric - numeric data type represent the data which has numeric value. Numeric value can be integer, floating number or even complex numbers.
+     
+     b.)Sequence Type - sequence is the ordered collection of similar or different data types. Sequences allows to store multiple values in an organized and efficient fashion.
+     
+     c.)Boolean - Data type with one of the two built-in values, True or False. 
+
+4.)Expressions made up of something, like a number, a string, or an instance of a class. Any value is an expression!
+   An expression is an instruction that combines values and operators and always evaluates down to a single value.
+
+5.)A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value.
+
+6.) 22
+
+7.) spamspamspam 
+    spamspamspam
+
+8.)variable names in Python can be any length and can consist of uppercase and lowercase letters ( A-Z , a-z ), digits ( 0-9 ), and the underscore character ( _ ). An additional restriction is that, although a variable name can contain digits, the first character of a variable name cannot be a digit.
+   Thats why egg is valid variable name but 100 is not.
+
+9.)The int(), float(), and str() functions will evaluate to the integer, floating-point number, and string versions of the value passed to them.
+
+10.) Because we tried to concatnet string with integer. By using type casting (i.e convert int to str), we can solve the error.
+
+
